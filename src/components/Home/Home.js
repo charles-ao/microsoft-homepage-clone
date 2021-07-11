@@ -56,25 +56,25 @@ const Home = () => {
         </h3>
         <div className='card-container'>
           <Card 
-            img='https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWDhA6?ver=d8db&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true'
+            img='https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4E4rT?ver=2072&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true'
             title='Windows 365 for business'
             desc='Stay a step ahead with powerful apps for productivity, connection, and security.'
             btnDesc='Shop now'
           />
           <Card 
-            img='https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4rzE2?ver=aa0b&q=90&m=6&h=195&w=348&b=%23FFFFFFFF&l=f&o=t&aim=true'
+            img='https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1CmIw?ver=e555&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true'
             title='Windows 10 Enterprise'
             desc='Download the free 90-day evaluation for IT professionals.'
             btnDesc='Download now'
           />
           <Card 
-            img='https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE3hD2k?ver=6539&q=90&m=6&h=195&w=348&b=%23FFFFFFFF&l=f&o=t&aim=true'
+            img='https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWyG26?ver=8f21&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true'
             title='Introducing Microsoft Viva'
             desc='Discover the new employee experience platform designed to help people connect, focus, learn, and thrive at work.'
             btnDesc='Learn more'
           />
           <Card 
-            img='https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE37Bcs?ver=e981&q=90&m=6&h=195&w=348&b=%23FFFFFFFF&l=f&o=t&aim=true'
+            img='https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2OfW4?ver=3149&q=90&m=6&h=201&w=358&b=%23FFFFFFFF&l=f&o=t&aim=true'
             title='Get Visual Studio 2019'
             desc='Download Visual Studio 2019, the productive, modern, and innovative IDE.'
             btnDesc='Download now'
